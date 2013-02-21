@@ -1,0 +1,8 @@
+{
+‘name’: ‘Sample Extension’,
+‘postURL’: ‘http://3rdparty.com/extension.php’,
+‘authorName’: ‘ACME’,
+‘moreInfoURL’: ‘http://en.wikipedia.org/wiki/Acme_Corporation’,
+‘type’: ‘uiless’,
+‘iconURL’: ‘http://3rdparty.com/extension.png’’
+ }
